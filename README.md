@@ -15,3 +15,4 @@ I'm a Machine Learning Student from Cairo, Egypt
 <a href="https://twitter.com/urmadboii">
   <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/Omar-hk/intro/blob/main/src/images/twitter.png" />
 </a>
+<br />
