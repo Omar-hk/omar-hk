@@ -10,9 +10,9 @@ I'm a Machine Learning Student from Cairo, Egypt
 <h2>🚀 Where you can find me</h2>
 
 <a href="https://www.linkedin.com/in/omarssalah/">
-  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/Omar-hk/intro/blob/main/src/images/linkedin.png" />
+  <img align="left" alt="omar-hk" width="30px" src="https://github.com/Omar-hk/omar-hk/blob/dcfe20de6a81976ff0cc955ddf0b342dfe73a51f/src/images/linkedin.png" />
 </a>
 <a href="https://twitter.com/urmadboii">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/Omar-hk/intro/blob/main/src/images/twitter.png" />
+  <img align="left" alt="omar-hk | Twitter" width="30px" src="https://github.com/Omar-hk/omar-hk/blob/dcfe20de6a81976ff0cc955ddf0b342dfe73a51f/src/images/twitter.png" />
 </a>
 <br />
