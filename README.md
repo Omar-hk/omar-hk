@@ -6,8 +6,8 @@ I'm a Machine Learning Student from Cairo, Egypt
 - 💖 I love Compatitive Programming and Algorithms Design 💡  (:<br/>
 - 🌱 I'm currently learning more about LLM and Computer Vision 👀
 </p>
-<a href="https://omarr.hks@gmail.com">
-  Email
+<a>
+  Email: omarr.hks@gmail.com
 </a>
 
 <h2>🚀 Where you can find me</h2>
